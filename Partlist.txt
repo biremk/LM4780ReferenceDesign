@@ -1,0 +1,15 @@
+Symbol Value Tolerance Type/Description Comment
+RIN1, RIN2 15k 5% 1/4 Watt
+RB1, RB2 1k 1% 1/4 Watt
+RF1, RF2 20k 1% 1/4 Watt
+Ri1, Ri2 1k 1% 1/4 Watt
+RSN1, RSN2, 2.7? 5% 1/4 Watt
+RG 2.7 5% 1/4 Watt
+RM 10k 5% 1/4 Watt
+CIN1, CIN2 1µF 10% Metallized Polyester Film
+Ci1, Ci2, 68µF 20% Electrolytic Radial / 50V
+CSN1, CSN2 0.1µF 20% Monolithic Ceramic
+CN1, CN2 15pF 20% Monolithic Ceramic
+CS1, CS2, CS3 0.1µF 20% Monolithic Ceramic
+CS4, CS5, CS6 10µF 20% Electrolytic Radial / 50V
+CS7, CS8 1,000µF 20% Electrolytic Radial / 50V
